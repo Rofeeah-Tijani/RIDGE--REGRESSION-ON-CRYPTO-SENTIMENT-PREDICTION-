@@ -220,7 +220,7 @@ Scatterplot was generated to examine the relationships between independent varia
 🔹 social_sentiment_score vs prediction_confidence
 A moderate positive trend was observed — as social sentiment improves, model confidence in predicting prices tends to increase.
 
-![Screenshot][Screenshot(44).png]
+![Screenshot](Screenshot(44).png)
 
 
 📦 Boxplot of Prediction Confidence by Cryptocurrency
@@ -235,7 +235,7 @@ Lower-cap or emerging coins like Dogecoin and Cardano displayed lower and more v
 
 This analysis highlights that model confidence varies significantly across cryptocurrencies, reflecting differences in market behavior, sentiment responsiveness, and technical signal strength.
 
-![Screenshot][Screenshot(45).png]
+![Screenshot](Screenshot(45).png)
 
 🎯 Distribution of Target Variable: prediction_confidence
 
